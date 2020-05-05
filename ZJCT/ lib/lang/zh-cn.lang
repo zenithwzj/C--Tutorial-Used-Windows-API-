@@ -1,0 +1,21 @@
+# ZJC 0.3.2.43l Language File 
+# Editor:zlEdit(Portable version) 
+#   
+# zlEdit : .lang file 
+# start 
+
+lang.use=true
+
+lang.constants.use=true
+lang.constants.characters.space=' '
+lang.constants.characters.endl='\n'
+lang.constants.characters.tab='\t'
+lang.constants.usefor.name="教程(ZJC Courses)"
+lang.constants.usefor.version="0.3.2.43l (使用.lang文件)"
+lang.constants.fonts.use=false
+
+lang.variables.use.true
+#lang
+
+lang.languages.use=false
+#lang
