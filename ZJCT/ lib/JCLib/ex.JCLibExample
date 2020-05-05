@@ -1,0 +1,13 @@
+{
+"Chinese":
+[{
+"Tutorial_Name":"JCLib File Example Name",
+"Tutorial_Keyword":
+{
+"Keywords":
+["Keywords1","Keywords2","..."]
+},
+"Tutorial_Content":"Content,Can use \\t,\\n,\\\\ and \\\""
+}
+]
+}
